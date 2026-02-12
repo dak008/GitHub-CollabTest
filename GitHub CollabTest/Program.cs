@@ -4,4 +4,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Kan I alle se mine tilføjelser?");
 Console.WriteLine("måske");
 Console.WriteLine("Nej!");
+Console.WriteLine("STOP MED DET DER");
+Console.WriteLine("Nej!");
 Console.WriteLine("What");
