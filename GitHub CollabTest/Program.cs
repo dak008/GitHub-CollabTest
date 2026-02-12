@@ -8,4 +8,6 @@ Console.WriteLine("STOP MED DET DER");
 Console.WriteLine("Nej!");
 Console.WriteLine("What");
 Console.WriteLine("10. forsøg");
+Console.WriteLine("Endnu et merge forsøg");
+Console.WriteLine("10. forsøg");
 Console.WriteLine("heya!");
