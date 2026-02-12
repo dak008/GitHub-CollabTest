@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Kan I alle se mine tilføjelser?")
-    Console.WriteLine("Jaaa!")
+Console.WriteLine("Kan I alle se mine tilføjelser?");
+Console.WriteLine("Jaaa!");
