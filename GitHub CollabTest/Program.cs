@@ -11,3 +11,5 @@ Console.WriteLine("10. forsøg");
 Console.WriteLine("Endnu et merge forsøg");
 Console.WriteLine("10. forsøg");
 Console.WriteLine("heya!");
+Console.ReadLine("sko");
+Console.ReadLine();
