@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Test konsol for collab arbejde i GitHub
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Kan I alle se mine tilføjelser?");
+Console.WriteLine("måske");
 Console.WriteLine("Nej!"); 
